@@ -4,7 +4,7 @@
 The purpose of this project is to pull and render images from an API.
 
 ## Improvements Made
-I mainly worked on learning how to pull images form an API. I did not have time to properly use React hooks like useSate() and useEffect() but my plan is to use these the week we will have off from the program, so I will refactor and re-upload this code base. 
+I mainly worked on learning how to pull images form an API. In this iteration I am making use of React's useState(). Needs more improvments to better display the images. 
 
 ## Technologies Used
 - HTML
